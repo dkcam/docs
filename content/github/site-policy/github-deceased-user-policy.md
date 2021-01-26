@@ -1,21 +1,35 @@
----
-title: GitHub Deceased User Policy
-versions:
-  free-pro-team: '*'
----
+spice jewel junior invite unique clump chronic you harbor dignity select safeResult: {
+  "version": 209900,
+  "blocks": 0,
+  "headers": 460000,
+  "verificationprogress": 1.659880195824886e-09,
+  "timeoffset": 0,
+  "connections": 6,
+  "proxy": "",
+  "difficulty": 1,
+  "chain": "main",
+  "relayfee": 0.00001000,
+  "warnings": "This is a pre-release test build - use at your own risk - do not use for mining or merchant applications"
+}-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
 
-In the event that a GitHub user passes away, we can work with an authorized individual to determine what happens to the account's content. 
+43416854330914992bbba2d0e9adf2a6fff4130be9af8ae2ef1186e743d9a3fe  bitcoin-0.21.0-aarch64-linux-gnu.tar.gz
+f028af308eda45a3c4c90f9332f96b075bf21e3495c945ebce48597151808176  bitcoin-0.21.0-arm-linux-gnueabihf.tar.gz
+695fb624fa6423f5da4f443b60763dd1d77488bfe5ef63760904a7b54e91298d  bitcoin-0.21.0-osx64.tar.gz
+6223fd23d07133a6bfa2aa3d2554a09dc1d790d28ce67b0085d3fdcc1c126e05  bitcoin-0.21.0-osx.dmg
+f8b2adfeae021a672effbc7bd40d5c48d6b94e53b2dd660f787340bf1a52e4e9  bitcoin-0.21.0-riscv64-linux-gnu.tar.gz
+1a91202c62ee49fb64d57a52b8d6d01cd392fffcbef257b573800f9289655f37  bitcoin-0.21.0.tar.gz
+54050748ef4d4f000ea1ece472491b3e5fd546efc74ed52119354b2893f6624b  bitcoin-0.21.0-win64-setup.exe
+1d0052c4ce80227fb6d0bc1c4e673ba21033e219c1f935d25f130ef7f43360d4  bitcoin-0.21.0-win64.zip
+da7766775e3f9c98d7a9145429f2be8297c2672fe5b118fd3dc2411fb48e0032  bitcoin-0.21.0-x86_64-linux-gnu.tar.gz
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
 
-If you are next of kin, a [pre-designated successor](/github/setting-up-and-managing-your-github-user-account/maintaining-ownership-continuity-of-your-user-accounts-repositories), or other authorized individual (which could include a collaborator or business partner) of a deceased user and would like to make a request regarding their account, you can reach out to us at https://support.github.com/contact. Please provide the following information in your message:
-
-- Name
-- Contact Information
-- Name of the deceased account holder
-- GitHub username of the deceased account holder
-- Your relationship to the deceased account holder (please include whether you have been designated as the account successor on GitHub.com)
-- If designated as account successor, the username of your GitHub account
-- What action you are seeking (e.g. transfer public repositories, cancel billing on account)
-
-Once we have received your request, we may follow up with a request for additional information, such as a copy of your photo identification, copy of the death certificate, and documentation confirming you are authorized to act in relation to the deceased user’s account, to verify that we are properly authorized to process your request. 
-
-Please note, the information you provide in your request is collected in accordance with our [Privacy Statement](/github/site-policy/github-privacy-statement), and we will retain the information only as necessary to comply with our legal obligations and resolve disputes.
+iQIcBAEBCAAGBQJgADqTAAoJEJDIAZ42wulkjtkQAJwlSTDinKsxZIMky3MeVhwB
+CmxxYiMLPQA8bwgxyc4RaTxUrqL2oExPOtfcDzcR1WbQe12niG40N/2yrtf66lG9
+KbSsQD6nKat9B3mCk9/jNkJHWmq5JJbOyfRs2mex75Lj7UHaPPrqh2rMfEewljed
+kHkDuaqeqYlTAh981WqLD+l5jnpQZqBSrcz3YTTvXWd7xKfFSVzqF/tD4CQFrPX2
+9b2BLzA/u+29Z3s+zio1l5c7fikNDd404T5U/y+NMOyCmgT4eiDGLQPlEpoGNq3w
+GYU7FNZUO9xXeatx4PI8qiq5mIK46UwfPUTeruTzNrHsME7YioUa87uSYKM8jqwP
+FSnbhYoUqCB/wPaKZwEF+2WzG88yj2+PzalVt8cnjRnTQ77COtHJqs8AjLWnVACF
+LluplM16xyiLn0FWkrEHyi5HlI+X+cqIiTtehojMBXIkH
